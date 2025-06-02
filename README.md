@@ -18,20 +18,19 @@ I'm a passionate MERN Stack developer with 2 years of experience as a Freelancer
 ## Key Projects
 
 - 📖 [Way2Quran.com](https://way2quran.com/en) - One of the largest Quran apps on the internet, I have built it using **MERN Stack** with **Next.js**
-- 📱 Way2Quran Mobile App - I have built and developed it using **React Native**
+- 📱 [Way2Quran Mobile App](https://apps.apple.com/qa/app/%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82-%D8%A5%D9%84%D9%8A-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86/id6738771546) - I have built and developed it using **React Native**
 
 ## Skills
 
 - Frontend: React, Next.js, React Native, Tailwind CSS
-- Backend: Node.js, Express.js, NestJS
-- Database: MongoDB
+- Backend: Node.js, NestJS, Express.js
+- Database: MongoDB, PostgreSQL
 - Languages: JavaScript, TypeScript
 - Problem Solving: 400+ problems solved on LeetCode
+- Bug hunter: Web security testing, XSS, IDOR, and other vulnerability discovery
 
 ## Get in Touch
 
 - 📧 Email: [eng.anas.nady@gmail.com](mailto:eng.anas.nady@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/anas-nady](https://linkedin.com/in/anas-nady)
 - 🧠 LeetCode: [leetcode.com/u/anas-nady](https://leetcode.com/u/anas-nady)
-
-Feel free to reach out for collaborations or just a chat about web development!
