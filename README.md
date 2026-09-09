@@ -2,6 +2,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/anas-nady/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://medium.com/@anas-nady"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a>
     <a href="https://leetcode.com/u/anas-nady/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/></a>
     <a href="mailto:eng.anas.nady@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
